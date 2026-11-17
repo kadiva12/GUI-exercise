@@ -42,3 +42,6 @@ Event handling is implemented using ActionListener and actionPerformed().
 
 - Login Button: Checks whether the entered username and password match the predefined credentials.
 - Reset Button: Clears the username and password fields.
+
+
+<img width="758" height="474" alt="Screenshot 2026-11-17 193401" src="https://github.com/user-attachments/assets/53bcb88b-2a54-4473-bc9b-38b07783874a" />
